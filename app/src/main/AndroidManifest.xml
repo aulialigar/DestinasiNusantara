@@ -21,10 +21,15 @@
         </activity>
         <activity android:name="id.sch.smktelkom_mlg.project.xirpl4091827.destinasinusantara.MainActivity">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="android.intent.category.LAUNCHER"/>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="id.sch.smktelkom_mlg.project.xirpl4091827.destinasinusantara.Main2Activity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
