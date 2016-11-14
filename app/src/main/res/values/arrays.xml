@@ -26,9 +26,9 @@
         <item>Bangka Belitung</item>
         <item>Bengkulu</item>
         <item>Lampung</item>
+        <item>Banten</item>
         <item>DKI Jakarta</item>
         <item>Jawa Barat</item>
-        <item>Banten</item>
         <item>Jawa Tengah</item>
         <item>Daerah Istimewa Yogyakarta</item>
         <item>Jawa Timur</item>
@@ -46,6 +46,10 @@
         <item>Sulawesi Tenggara</item>
         <item>Sulawesi Selatan</item>
         <item>Gorontalo</item>
+        <item>Maluku</item>
+        <item>Maluku Utara</item>
+        <item>Papua Barat</item>
+        <item>Papua</item>
     </string-array>
     <string-array name="place_desc">
         <item>The Palais Garnier which locates in Paris was built from 1861 for
@@ -60,9 +64,9 @@
         <item>Bangka Belitung</item>
         <item>Bengkulu</item>
         <item>Lampung</item>
+        <item>Banten</item>
         <item>DKI Jakarta</item>
         <item>Jawa Barat</item>
-        <item>Banten</item>
         <item>Jawa Tengah</item>
         <item>Daerah Istimewa Yogyakarta</item>
         <item>Jawa Timur</item>
@@ -80,6 +84,10 @@
         <item>Sulawesi Tenggara</item>
         <item>Sulawesi Selatan</item>
         <item>Gorontalo</item>
+        <item>Maluku</item>
+        <item>Maluku Utara</item>
+        <item>Papua Barat</item>
+        <item>Papua</item>
     </string-array>
     <string-array name="place_details">
         <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
@@ -128,9 +136,9 @@
         <item>Bangka Belitung</item>
         <item>Bengkulu</item>
         <item>Lampung</item>
+        <item>Banten</item>
         <item>DKI Jakarta</item>
         <item>Jawa Barat</item>
-        <item>Banten</item>
         <item>Jawa Tengah</item>
         <item>Daerah Istimewa Yogyakarta</item>
         <item>Jawa Timur</item>
@@ -148,6 +156,10 @@
         <item>Sulawesi Tenggara</item>
         <item>Sulawesi Selatan</item>
         <item>Gorontalo</item>
+        <item>Maluku</item>
+        <item>Maluku Utara</item>
+        <item>Papua Barat</item>
+        <item>Papua</item>
     </string-array>
     <string-array name="place_locations">
         <item>8 Rue Scribe, 75009 Paris, France</item>
@@ -160,9 +172,9 @@
         <item>Bangka Belitung</item>
         <item>Bengkulu</item>
         <item>Lampung</item>
+        <item>Banten</item>
         <item>DKI Jakarta</item>
         <item>Jawa Barat</item>
-        <item>Banten</item>
         <item>Jawa Tengah</item>
         <item>Daerah Istimewa Yogyakarta</item>
         <item>Jawa Timur</item>
@@ -180,6 +192,10 @@
         <item>Sulawesi Tenggara</item>
         <item>Sulawesi Selatan</item>
         <item>Gorontalo</item>
+        <item>Maluku</item>
+        <item>Maluku Utara</item>
+        <item>Papua Barat</item>
+        <item>Papua</item>
     </string-array>
     <array name="places_picture">
         <item>@drawable/a</item>
@@ -212,5 +228,9 @@
         <item>@drawable/zb</item>
         <item>@drawable/zc</item>
         <item>@drawable/zd</item>
+        <item>@drawable/ze</item>
+        <item>@drawable/zf</item>
+        <item>@drawable/zg</item>
+        <item>@drawable/zh</item>
     </array>
 </resources>
