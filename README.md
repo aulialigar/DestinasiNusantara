@@ -6,7 +6,7 @@ Aplikasi ini merupakan aplikasi yang menyediakan informasi mengenai destinasi wi
 ![image](https://cloud.githubusercontent.com/assets/22268453/20307218/02b64692-ab71-11e6-8833-6cb2892ed567.png)<br>
 Video Aplikasi -<br>
 Link file dari aplikasi - <br>
-Identitas tiap anggota:
-1. Aulia Ligar Salma Hanani; XI RPL 4; 09; 9991388519; SMK Telkom Malang
-2. Karlina Widyastuti; XI RPL 4; 18; 9993394843; SMK Telkom Malang
-3. Nina Aulia Ramadhani; XI RPL 4; 27; 9998717676; SMK Telkom Malang
+Identitas tiap anggota:<br>
+1. Aulia Ligar Salma Hanani; XI RPL 4; 09; 9991388519; SMK Telkom Malang<br>
+2. Karlina Widyastuti; XI RPL 4; 18; 9993394843; SMK Telkom Malang<br>
+3. Nina Aulia Ramadhani; XI RPL 4; 27; 9998717676; SMK Telkom Malang<br>
