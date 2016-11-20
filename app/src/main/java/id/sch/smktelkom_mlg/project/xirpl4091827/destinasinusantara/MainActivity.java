@@ -10,14 +10,14 @@ import android.support.v7.widget.RecyclerView;
 
 import java.util.ArrayList;
 
-import adapter.HotelAdapter;
 import id.sch.smktelkom_mlg.learn.project.R;
-import model.Hotel;
+import id.sch.smktelkom_mlg.project.xirpl4091827.destinasinusantara.adapter.twisadapter;
+import id.sch.smktelkom_mlg.project.xirpl4091827.destinasinusantara.twisata.twis;
 
 public class MainActivity extends AppCompatActivity {
 
-    ArrayList<Hotel> mList = new ArrayList<>();
-    HotelAdapter mAdapter;
+    ArrayList<twis> mList = new ArrayList<>();
+    twisadapter mAdapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
         GridLayoutManager layoutManager = new GridLayoutManager(this, 2);
         recyclerView.setLayoutManager(layoutManager);
-        mAdapter = new HotelAdapter(mList);
+        mAdapter = new twisadapter(mList);
         recyclerView.setAdapter(mAdapter);
 
         fillData();
@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
 
         for (int i = 0; i < arJudul.length; i++)
         {
-            mList.add(new Hotel(arJudul[i],arDeskripsi[i],arFoto[i]));
+            mList.add(new twis(arJudul[i],arDeskripsi[i],arFoto[i]));
         }
         mAdapter.notifyDataSetChanged();
     }
